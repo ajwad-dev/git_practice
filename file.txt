@@ -1,0 +1,2 @@
+password = git
+username = git practice
