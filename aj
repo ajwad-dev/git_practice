@@ -1,4 +1,3 @@
 
-developer ajwad sultan
-
+developer ajwad
 
