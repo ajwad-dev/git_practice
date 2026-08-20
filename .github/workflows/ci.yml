@@ -14,8 +14,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run test
-        run:  echo "hello"
-        - name: Test
         run: |
           echo "Running tests..."
-          test 2 + 2 -eq 4
+          test $((2 + 2)) -eq 4
