@@ -17,3 +17,5 @@ jobs:
         run: |
           echo "Running tests..."
           test $((2 + 2)) -eq 4
+      - name: Testing Echo
+        run: echo "hello"
